@@ -10,3 +10,5 @@ Log for my #100DaysOfCode challenge
 007:  functions, file read/write, gzip compression, UTF-8 problems
 008:  "
 009:  "
+010:  Started learning SQL via Sololearn
+011:  Finished learning SQL via Sololearn
